@@ -6,5 +6,5 @@
 
 | Nombres | José Aviles | Roger Ruz  | Benjamin Rueda  | Rafael Perea | Elias Aragon | Bryan Chale | Giovanni Quintal |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
-| Foto | <img src="Recursos/Fotos/Daroz.jpeg"  width="300" height="300" />  | imagen :) | imagen :) | imagen :) | imagen :) | imagen :) | <img src="Recursos/Fotos/Gio.jpeg" width="300" height="300"> |
+| Foto | <img src="Recursos/Fotos/Daroz.jpeg"  width="180" height="180" />  | imagen :) | imagen :) | imagen :) | imagen :) | imagen :) | <img src="Recursos/Fotos/Gio.jpeg" width="180" height="180"> |
 | Rol |  | | | | | | |
