@@ -12,15 +12,16 @@
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
-- [Application definition](https://github.com/DarozZero/Fmat-Proyect)
-- [Research plan](https://github.com/DarozZero/Fmat-Proyect)
+- [Application definition](https://github.com/DarozZero/Fmat-Proyect/tree/main/Documentation/Application%20definition)
+- [Research plan](https://github.com/DarozZero/Fmat-Proyect/tree/main/Documentation/Research%20plan)
+  * [Forms](https://github.com/DarozZero/Fmat-Proyect/tree/main/Documentation/Research%20plan/Forms)
 - [Activities](https://github.com/DarozZero/Fmat-Proyect)
   * [Calendar](https://github.com/DarozZero/Fmat-Proyect)
   * [Teamwork](https://github.com/DarozZero/Fmat-Proyect)
 - [Users](https://github.com/DarozZero/Fmat-Proyect)
-- [Requirements](https://github.com/DarozZero/Fmat-Proyect)
+- [Requirements](https://github.com/DarozZero/Fmat-Proyect/tree/main/Documentation/Requirements)
 - [Research](https://github.com/DarozZero/Fmat-Proyect)
-- [Methodology](https://github.com/DarozZero/Fmat-Proyect)
+- [Methodology](https://github.com/DarozZero/Fmat-Proyect/tree/main/Documentation/Methodology)
 - [FAQ](https://github.com/DarozZero/Fmat-Proyect)
 
 
