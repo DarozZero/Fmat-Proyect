@@ -25,6 +25,7 @@
 - [Idea / Solution](#idea)
 - [Users](#users)
 - [Motivation](#motivation)
+- [Documentation](#documentation)
 - [Authors](#authors)
 
 
@@ -50,9 +51,14 @@ The objective of the system will be to provide the necessary help and tools to m
 ## 🚀 Motivation <a name = "motivation"></a>
 Motivation to drop out of school can arise from feeling the need to do so, in search of better opportunities, or from not finding worthwhile reasons to continue studying. As students, we have noticed and experienced this phenomenon during our own studies. We have also conducted interviews with other students who are considering dropping out or who have already done so. Their responses have further highlighted the urgent need to address the issue of school dropout.
 
+## 📄 Documentation <a name = "documentation"></a>
+
+You can find our documentation on our repository [here](https://github.com/DarozZero/Fmat-Proyect)
+
 ## Authors <a name = "authors"></a>
 
 Thank you to all our authors! 🙏
+See also the list of [contributors](https://github.com/DarozZero/Fmat-Proyect/graphs/contributors) who participated in this project.
 
 <a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://imgur.com/78LEjBf.png?width=74"></a>
 
