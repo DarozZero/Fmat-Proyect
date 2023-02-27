@@ -53,7 +53,7 @@ Motivation to drop out of school can arise from feeling the need to do so, in se
 
 ## 📄 Documentation <a name = "documentation"></a>
 
-You can find our documentation on our repository [here](https://github.com/DarozZero/Fmat-Proyect)
+You can find our documentation on our repository [here](https://github.com/DarozZero/Fmat-Proyect/tree/main/Documentation)
 
 ## Authors <a name = "authors"></a>
 
