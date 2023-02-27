@@ -1,10 +1,13 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/DarozZero/Fmat-Proyect">
+    <img alt="gradup" title="gradup" src="https://imgur.com/3hKNcic.png" width="675" >
+  </a>
+</p>
+<h2 align="center">Documentation</h2>
 
-  <h1>Documentation</h1>
-  
-  <p>
-    Detailed documentation included for easy replication and verification of research methodology and results
-  </p>
+<p align="center"> Detailed documentation included for easy replication and verification of research methodology and results
+    <br> 
+</p>
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
