@@ -4,7 +4,11 @@
   </a>
 </p>
 <h2 align="center">GradUp</h2>
-
+<p align="center">
+  <a href="https://youtu.be/rbGcNbC_MXc">
+    Link Video Primera Presentación!
+  </a>
+</p>
 <div align="center">
 
 
