@@ -8,10 +8,13 @@
   <a href="https://youtu.be/rbGcNbC_MXc">
     Link Video Primera Presentación!
   </a>
-  <a href="https://youtu.be/4-zeFunSAUU">
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4-zeFunSAUU">
     Link Video Segunda Presentación!
   </a>
 </p>
+<h2 align="center">GradUp</h2>
 <div align="center">
 
 
