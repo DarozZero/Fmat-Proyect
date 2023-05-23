@@ -66,3 +66,7 @@ See also the list of [contributors](https://github.com/DarozZero/Fmat-Proyect/gr
 
 <a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://imgur.com/78LEjBf.png?width=74"></a>
 
+## Video! <a name = "Video"></a>
+
+You can find our video [here](https://youtu.be/yu06DJ3gEtI)
+
